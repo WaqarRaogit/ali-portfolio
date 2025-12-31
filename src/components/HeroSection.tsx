@@ -1,6 +1,7 @@
 import { Mail, Phone, MapPin, Download, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import profileImage from "@/assets/profile.png";
+import cvPdf from "@/assets/ali-faraz-cv.pdf";
 
 const HeroSection = () => {
   const scrollToAbout = () => {
@@ -76,13 +77,15 @@ const HeroSection = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-wrap justify-center lg:justify-start gap-4 animate-fade-in-up animation-delay-500">
-            <Button
-              size="lg"
-              className="bg-primary hover:bg-gold-dark text-primary-foreground shadow-gold hover:shadow-lg transition-all duration-300"
+            <a
+              href={cvPdf}
+              download
+              className="inline-flex items-center gap-2 px-5 py-3 rounded-md bg-primary hover:bg-gold-dark text-primary-foreground shadow-gold hover:shadow-lg transition-all duration-300"
+              aria-label="Download Ali Faraz CV"
             >
-              <Download className="w-4 h-4 mr-2" />
-              Download CV
-            </Button>
+              <Download className="w-4 h-4" />
+              <span>Download CV</span>
+            </a>
             <Button
               size="lg"
               variant="outline"
