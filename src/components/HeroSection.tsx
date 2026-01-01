@@ -44,7 +44,7 @@ const HeroSection = () => {
           </h1>
           
           <h2 className="text-xl md:text-2xl font-body font-medium text-primary mb-6 animate-fade-in-up animation-delay-200">
-            Data Analyst & Python Developer
+            Mathematician | Quantitative Financial Analyst | Data Analyst (Python, Excel,ML)
           </h2>
           
           <p className="text-secondary-foreground/80 text-lg leading-relaxed mb-8 animate-fade-in-up animation-delay-300">

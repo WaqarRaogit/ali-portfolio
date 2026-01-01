@@ -43,9 +43,9 @@ This recognition motivated me to continue striving for excellence and helped sha
   },
   {
     id: "crsom-7-2023",
-    title: "CRSOM-7",
+    title: "Trophy",
     issuer: "CASPAM - BZU",
-    shortDescription: "CASPAM Regional Student Olympiad of Mathematics",
+    shortDescription: "Second position in Second semester",
     fullDescription: `The CRSOM-7 (CASPAM Regional Student Olympiad of Mathematics) certificate was awarded for participation and performance in this prestigious mathematics competition organized by CASPAM at Bahauddin Zakariya University (BZU), Multan.
 
 This olympiad brings together the brightest mathematical minds from across the region to compete in challenging problem-solving scenarios that test logical reasoning, analytical thinking, and mathematical intuition. The competition covers advanced mathematical concepts and requires creative approaches to complex problems.
@@ -56,9 +56,9 @@ Participating in CRSOM-7 enhanced my problem-solving abilities and deepened my u
   },
   {
     id: "crsom-9-2024",
-    title: "CRSOM-9",
+    title: "Trophy",
     issuer: "CASPAM - BZU",
-    shortDescription: "CASPAM Regional Student Olympiad of Mathematics",
+    shortDescription: "2nd position in 4th semester",
     fullDescription: `Building upon my previous experience, I participated in CRSOM-9, the 9th edition of the CASPAM Regional Student Olympiad of Mathematics at Bahauddin Zakariya University. This competition represented an even greater challenge with more advanced mathematical problems and tougher competition.
 
 The olympiad tested advanced concepts in algebra, geometry, number theory, and combinatorics. My continued participation demonstrated my persistent dedication to mathematical excellence and my desire to challenge myself against the best minds in the region.
